@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikalay
 - 👀 I’m interested in python, developing different bots, web parsing.
-- 🌱 I’m currently learning devrloping python apps.
+- 🌱 I’m currently learning developing python apps.
 - 💞️ I’m looking to collaborate on open source project.
 - 📫 How to reach me sanskritpro@gmail.com
 
